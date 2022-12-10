@@ -21,7 +21,7 @@ hooks:
     - location: scripts/stop_server.sh
       timeout: 30
       runas: root
-      artifacts:
+  artifacts:
   files:
     - '**/*'
   discard-paths: no
