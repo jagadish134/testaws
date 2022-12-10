@@ -1,6 +1,5 @@
 <?php
-echo "hello test from vs  code";
-    echo "test deplo";   
+echo "hello from code deployz test";
 ?>
 
 
