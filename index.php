@@ -1,5 +1,5 @@
 <?php
-echo "automaitc code deploy";
+echo "secondd test ";
 ?>
 
 
